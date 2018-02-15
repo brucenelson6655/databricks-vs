@@ -8,6 +8,8 @@
 // MAGIC * This demo...  
 // MAGIC   * Includes a dataset with a subset of the samples and variants (in VCF format) from the 1000 Genomes Project  
 // MAGIC   * Uses a synthetic phenotype called *HipsterIndex* (in CSV format) factoring various real phenotypes (monobrow, beard, etc.)
+// MAGIC   marker 2/14
+// MAGIC   
 
 // COMMAND ----------
 
